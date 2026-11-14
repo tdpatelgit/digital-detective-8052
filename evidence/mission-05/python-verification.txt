@@ -1,0 +1,29 @@
+=== python3 number_converter.py  (3 test runs) ===
+
+--- input: 13 ---
+Enter a positive decimal number: Decimal     : 13
+Binary      : 0b1101
+Hexadecimal : 0xd
+
+--- input: 25 ---
+Enter a positive decimal number: Decimal     : 25
+Binary      : 0b11001
+Hexadecimal : 0x19
+
+--- input: 250 ---
+Enter a positive decimal number: Decimal     : 250
+Binary      : 0b11111010
+Hexadecimal : 0xfa
+
+=== Task 5.2 Python interactive verification ===
+bin(13)      = 0b1101
+bin(25)      = 0b11001
+int('1010',2)= 10
+int('1101',2)= 13
+hex(13)      = 0xd
+hex(25)      = 0x19
+int('A',16)  = 10
+int('1F',16) = 31
+bin(15)      = 0b1111 -> 1111 binary = F hex
+ord('A')     = 65
+ord('a')     = 97
