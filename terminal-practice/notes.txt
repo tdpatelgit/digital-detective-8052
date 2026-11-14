@@ -1,0 +1,2 @@
+Line 1: Diwali break terminal practice
+Line 2: appending does not erase line 1

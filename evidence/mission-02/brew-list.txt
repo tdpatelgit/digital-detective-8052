@@ -1,0 +1,18 @@
+=== brew list (first 15 packages managed) ===
+ada-url
+aom
+autoconf
+aws-c-auth
+aws-c-cal
+aws-c-common
+aws-c-compression
+aws-c-event-stream
+aws-c-http
+aws-c-io
+aws-c-mqtt
+aws-c-s3
+aws-c-sdkutils
+aws-checksums
+awscli
+
+(total packages managed: 173)

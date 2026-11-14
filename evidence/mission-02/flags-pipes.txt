@@ -1,0 +1,36 @@
+=== ls (plain) ===
+evidence
+mission-00-setup
+mission-01-computer-basics
+mission-02-terminal
+mission-03-operating-system
+mission-04-programs
+mission-05-numbers-data
+mission-06-git-github
+mission-07-networking
+mission-08-final-report
+terminal-practice
+
+=== ls -lah (detailed, hidden files, human-readable sizes) ===
+total 0
+drwxr-xr-x@ 13 [redacted]  staff   416B Nov 14 22:37 .
+drwxr-xr-x  11 [redacted]  staff   352B Nov 14 22:37 ..
+drwxr-xr-x@  5 [redacted]  staff   160B Nov 14 22:37 evidence
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-00-setup
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-01-computer-basics
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-02-terminal
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-03-operating-system
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-04-programs
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-05-numbers-data
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-06-git-github
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-07-networking
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-08-final-report
+drwxr-xr-x@  4 [redacted]  staff   128B Nov 14 22:37 terminal-practice
+
+=== ls -lah | head -6 (pipe to head) ===
+total 0
+drwxr-xr-x@ 13 [redacted]  staff   416B Nov 14 22:37 .
+drwxr-xr-x  11 [redacted]  staff   352B Nov 14 22:37 ..
+drwxr-xr-x@  5 [redacted]  staff   160B Nov 14 22:37 evidence
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-00-setup
+drwxr-xr-x@  2 [redacted]  staff    64B Nov 14 22:37 mission-01-computer-basics

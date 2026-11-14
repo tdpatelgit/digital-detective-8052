@@ -1,0 +1,58 @@
+=== pwd (username redacted) ===
+/Users/[redacted]/Documents/Newton School Of Technology/digital-detective-8052
+
+=== ls ===
+evidence
+mission-00-setup
+mission-01-computer-basics
+mission-02-terminal
+mission-03-operating-system
+mission-04-programs
+mission-05-numbers-data
+mission-06-git-github
+mission-07-networking
+mission-08-final-report
+
+=== ls -l ===
+total 0
+drwxr-xr-x@ 5 [redacted]  staff  160 Nov 14 22:37 evidence
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-00-setup
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-01-computer-basics
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-02-terminal
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-03-operating-system
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-04-programs
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-05-numbers-data
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-06-git-github
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-07-networking
+drwxr-xr-x@ 2 [redacted]  staff   64 Nov 14 22:37 mission-08-final-report
+
+=== cd .. and pwd ===
+/Users/[redacted]/Documents/Newton School Of Technology
+
+=== mkdir terminal-practice ===
+done
+
+=== touch notes.txt ===
+done
+
+=== echo first line >> ===
+done
+=== echo second line >> ===
+done
+
+=== cat notes.txt ===
+Line 1: Diwali break terminal practice
+Line 2: appending does not erase line 1
+
+=== cp notes.txt backup.txt ===
+done
+=== mv backup.txt -> backup-renamed.txt ===
+done
+
+=== ls terminal-practice ===
+backup-renamed.txt
+notes.txt
+
+=== cat original notes.txt (both lines survived) ===
+Line 1: Diwali break terminal practice
+Line 2: appending does not erase line 1
