@@ -2,6 +2,7 @@
 
 **Name:** Tejas Dharmendra Patel
 **USN:** 2402608052
+**Campus / Section:** S-VYASA, A-1
 **Repository:** digital-detective-8052
 
 This is my Diwali independent learning project. I investigated how my own computer works: how it takes input and produces output, how the Terminal manages files, what the operating system is responsible for, how programs run, how numbers and text are stored, how Git and GitHub version-control work, and how computers communicate over networks. Each mission was completed, documented, committed and pushed separately.
