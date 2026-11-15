@@ -1,0 +1,15 @@
+=== ping -c 4 example.com (connectivity test) ===
+PING example.com (104.20.23.154): 56 data bytes
+64 bytes from 104.20.23.154: icmp_seq=0 ttl=54 time=24.506 ms
+64 bytes from 104.20.23.154: icmp_seq=1 ttl=54 time=25.988 ms
+64 bytes from 104.20.23.154: icmp_seq=2 ttl=54 time=35.010 ms
+64 bytes from 104.20.23.154: icmp_seq=3 ttl=54 time=25.400 ms
+
+--- example.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 24.506/27.726/35.010/4.238 ms
+
+=== nslookup example.org (DNS lookup; local resolver redacted, public answer kept) ===
+Non-authoritative answer:
+Name:	example.org
+Name:	example.org
