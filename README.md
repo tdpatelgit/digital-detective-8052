@@ -39,3 +39,7 @@ Type a positive whole number when prompted. The program prints the same value in
 A computer is a chain: input devices feed data to the CPU, the operating system decides what runs and what each program may touch, everything — numbers, text, files — is just represented data, and tools like Git and the Terminal give me direct control instead of relying only on icons and buttons.
 
 Every mission in this repository was documented in its own folder with its own README and had its own meaningful Git commit pushed to GitHub before the next mission began.
+
+## My Learning
+
+The biggest change for me was switching from clicking to instructing. The Terminal made ordinary things — moving files, checking what a program is doing, finding where a name resolves on the internet — into explicit commands I could see and repeat. Git turned my folder into an auditable history instead of a pile of files, and the mission-by-mission commit rule meant every claim in this repository has a matching entry in `git log`.
